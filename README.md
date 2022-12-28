@@ -6,19 +6,19 @@ Front-end and back-end development professional with full stack web development 
 
 
 Skills: 
-✔NODE JS
-✔REACT
-✔NEXT JS
-✔EXPRESS JS
-✔MONGO DB 
-✔React Redux
-✔REST API Development
-✔JavaScript
-✔Bootstrap
-✔JQuery
-✔HTML
-✔CSS
-✔WebRTC
+✔NODE JS<br/>
+✔REACT<br/>
+✔NEXT JS<br/>
+✔EXPRESS JS<br/>
+✔MONGO DB <br/>
+✔React Redux<br/>
+✔REST API Development<br/>
+✔JavaScript<br/>
+✔Bootstrap<br/>
+✔JQuery<br/>
+✔HTML<br/>
+✔CSS<br/>
+✔WebRTC<br/>
 
 
 
