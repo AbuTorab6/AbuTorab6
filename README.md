@@ -5,7 +5,7 @@ Front-end and back-end development professional with full stack web development 
 
 
 
-Skills: 
+<b>Skills:</b> <br/>
 ✔NODE JS<br/>
 ✔REACT<br/>
 ✔NEXT JS<br/>
