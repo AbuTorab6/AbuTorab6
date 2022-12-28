@@ -20,7 +20,7 @@ Front-end and back-end development professional with full stack web development 
 ✔CSS<br/>
 ✔WebRTC<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AbuTorab6=web.3.84@abu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Connect with me  
 <div align="center">
