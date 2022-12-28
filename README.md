@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Myself MD. Abu Torab Ibnul Baki (JUBORAZ)
+#### MERN Stack Developer
+![MERN Stack Developer](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/314881320_1823213751364557_2629849927638757457_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGF3Adb5uB41KaS0xOc-Sj9gKcuChnosH-Apy4KGeiwf0dASOyTKFrgS7_ixt-ePBy1k_1Q0KCSMqc19zqLPYHD&_nc_ohc=bPdq1FEkxuoAX_cZAWS&tn=1DN-2OPhlEFovVDB&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBw1uFLMhOxZmyTHalTG5Ct6bPzzvvNGutHGY1ybH2v0A&oe=63B15700)
 
-<!--
-**AbuTorab6/AbuTorab6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end and back-end development professional with full stack web development experience.Well versed in numerous programming languages JavaScript ES6 Nodejs, structured language HTML5 CSS3, Libraries REACT-JS With MongoDB Database.
 
-Here are some ideas to get you started:
+Skills: NODE JS / REACT / NEXT JS / EXPRESS JS /MONGO DB 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AbuTorab6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abu-torab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/juboraz.grz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abutorab.me/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AbuTorab6)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AbuTorab6&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/AbuTorab6)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/AbuTorab6)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/AbuTorab6)  
