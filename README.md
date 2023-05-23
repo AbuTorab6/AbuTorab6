@@ -2,7 +2,7 @@
 #### MERN Stack Developer
 🔌 Love to learn technologies
 #### About Me
-Front-end and back-end development professional with full stack web development experience.Well versed in numerous programming languages JavaScript ES6 Nodejs, structured language HTML5 CSS3, Libraries REACT-JS With MongoDB Database.<br/> <br/>In computer science and engineering, I'm pursuing my BSc at AIUB. I create websites. I am working in web world for more than 2 years. Around 2019, I began studying web development. I have been working with WordPress for quite some time. Then, JavaScript and the JavaScript's framework appeared to be more intelligent to me. I then began studying MERN Stack Development.<br/>
+Front-end and back-end development professional with full stack web development experience.Well versed in numerous programming languages JavaScript ES6 Nodejs, structured language HTML5 CSS3, Libraries REACT-JS With MongoDB Database.<br/> <br/>I have completed my B.Sc in computer science and engineering from American International University - Bangladesh (AIUB). I have over a year of experience with each of these technologies, and I am eager to learn even more technologies to sharpen my skill set. Working on both Front-End and Back-End of a web application is my passion.<br/>
 
 
 <b>Skills:</b> <br/>
@@ -19,6 +19,8 @@ Front-end and back-end development professional with full stack web development 
 ✔HTML<br/>
 ✔CSS<br/>
 ✔WebRTC<br/>
+✔Socket.io<br/>
+✔peer js<br/>
 
 
 
