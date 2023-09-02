@@ -27,13 +27,13 @@ Front-end and back-end development professional with full stack web development 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/AbuTorab6" target="_blank">
+<a href="https://github.com/AbuTorab6" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abu-torab/" target="_blank">
+<a href="https://linkedin.com/in/abu-torab/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/juboraz.grz" target="_blank">
+<a href="https://www.facebook.com/juboraz.grz" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
