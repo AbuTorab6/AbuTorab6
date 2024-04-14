@@ -2,7 +2,7 @@
 #### JavaScript Developer
 🔌 Love to learn technologies
 #### About Me
-Front-end and back-end development professional with full stack web development experience.Well versed in numerous programming languages JavaScript ES6 Nodejs, structured language HTML5 CSS3, Libraries REACT-JS With MongoDB Database.<br/> <br/>I am working as a Junior Software Developer at NETMARK.I have completed my B.Sc in computer science and engineering from American International University - Bangladesh (AIUB). I have over a year of experience with each of these technologies, and I am eager to learn even more technologies to sharpen my skill set. Working on both Front-End and Back-End of a web application is my passion.<br/>
+Front-end and back-end development professional with full stack web development experience.Well versed in numerous programming languages JavaScript ES6 Nodejs, structured language HTML5 CSS3, Libraries REACT-JS With MongoDB Database.<br/> <br/>I am working as a Junior Software Developer at AppriseIT.I have completed my B.Sc in computer science and engineering from American International University - Bangladesh (AIUB). I have over a year of experience with each of these technologies, and I am eager to learn even more technologies to sharpen my skill set. Working on both Front-End and Back-End of a web application is my passion.<br/>
 
 
 <b>Skills:</b> <br/>
