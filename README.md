@@ -13,6 +13,7 @@ Front-end and back-end development professional with full stack web development 
 ✔NEXT JS<br/>
 ✔EXPRESS JS<br/>
 ✔MONGO DB <br/>
+✔MySQL <br/>
 ✔React Redux<br/>
 ✔REST API Development<br/>
 ✔Bootstrap<br/>
